@@ -1,0 +1,46 @@
+﻿h3 {
+    color: purple;
+    text-align: center;
+    border: 3px solid black;
+    width: 30%;
+    border-radius: 34px;
+    padding: 10px;
+}
+
+form {
+    text-align: center;
+    width: 100%;
+    padding: 50px;
+}
+
+.Login {
+    border: 1px solid #000;
+    text-align: center;
+    width: 30%;
+}
+
+.Username {
+    padding: 10px;
+}
+
+.Password {
+    padding: 10px;
+}
+
+.Button {
+    padding: 7px;
+}
+
+.Button input {
+     background: black;
+     color: white;
+     width: 100px;
+     border: none;
+     margin-top: 12px;
+    }
+
+.status {
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
